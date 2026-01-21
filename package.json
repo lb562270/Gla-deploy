@@ -6,6 +6,7 @@
   "private": false,
   "scripts": {
     "start": "node index.js"
+    "bluid": "echo \"No bluid needed"for static site\""
   },
   "dependencies": {
     "axios": "latest",
